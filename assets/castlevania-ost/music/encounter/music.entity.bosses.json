@@ -1,0 +1,9 @@
+{
+    "priority":  500,
+    "layer":  "encounter",
+    "sound_event":  "castlevania-ost:music.entity.bosses",
+    "condition": {
+        "type": "maestro:boss_event",
+        "value": true
+    }
+}

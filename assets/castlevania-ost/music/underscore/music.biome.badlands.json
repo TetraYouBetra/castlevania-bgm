@@ -1,0 +1,20 @@
+{
+    "priority":  200,
+    "layer":  "underscore",
+    "sound_event":  "castlevania-ost:music.biome.badlands",
+    "cooldown_seconds": 120,
+    "occupy_layer_during_cooldown": true,
+    "reset_cooldown_on_reactivation": false,
+    "condition": {
+        "type": "maestro:any_of",
+        "terms": [
+        {
+            "type": "maestro:biome_tag",
+            "values": [ 
+                "minecraft:is_badlands",
+                "minecraft:is_savanna"
+            ]
+        }
+        ]
+  }
+}

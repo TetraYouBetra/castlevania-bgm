@@ -1,0 +1,19 @@
+{
+    "priority":  400,
+    "layer":  "underscore",
+    "sound_event":  "castlevania-ost:music.biome.swamp",
+    "cooldown_seconds": 120,
+    "occupy_layer_during_cooldown": true,
+    "reset_cooldown_on_reactivation": false,
+    "condition": {
+        "type": "maestro:any_of",
+        "terms": [
+        {
+            "type": "maestro:biome_tag",
+            "values": [ 
+            "minecraft:has_structure/ruined_portal_swamp"
+            ]
+        }
+        ]
+  }
+}

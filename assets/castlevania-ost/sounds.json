@@ -1,0 +1,306 @@
+{
+  "music.screens.title": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:draculax_01_overture",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:draculax_02_world_map",
+        "stream": true
+      }
+    ]
+  },
+  "music.screens.death": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:draculax_20_death_of_richter",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:draculax_16_game_over",
+        "stream": true
+      }
+    ]
+  },
+  "music.dimension.overworld": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:sotn_01_transformation_no._1",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_30_transformation_no._2",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_33_transformation_no._3",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_25_young_nobleman_of_sadness",
+        "stream": true
+      }
+    ]
+  },
+  "music.dimension.nether": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:sotn_18_rainbow_cemetery",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_14_resting_place",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_26_through_the_gate_over_the_deep_edge",
+        "stream": true
+      }
+    ]
+  },
+  "music.dimension.the_end": {
+    "sounds": [      
+      {
+        "name": "castlevania-ost:sotn_27_through_the_gate_into_the_world_of_heaven",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_22_cursed_holy_castle",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_24_awakened_soul",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_19_stillness",
+        "stream": true
+      }
+    ]
+  },
+  "music.entity.bosses": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:draculax_12_boss_battle",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_28_the_poetic_melody_of_death",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_32_black_feast",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:draculax_13_dance_of_illusions",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_03_illusionary_dance",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_29_strange_bloodline",
+        "stream": true
+      }
+    ]
+  },
+  "music.entity.combat": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:draculax_03_divine_bloodlines",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:draculax_04_vampire_killer",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:draculax_05_bloody_tears",
+        "stream": true
+      }
+    ]
+  },
+  "music.biome.cold": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:sotn_16_crystal_drops",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_20_lost_painting",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_21_pearl_dance_song",
+        "stream": true
+      }
+    ]
+  },
+  "music.biome.cave": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:sotn_17_path_of_the_departed",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_12_gate_of_spirits",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:draculax_11_cerberus",
+        "stream": true
+      }
+    ]
+  },
+  "music.biome.sky": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:sotn_15_requiem_of_the_gods",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_09_tower_of_evil_fog",
+        "stream": true
+      }      
+    ]
+  },
+  "music.biome.badlands": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:draculax_02_world_map",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_02_prologue",
+        "stream": true
+      }
+    ]
+  },
+  "music.biome.forestjungle": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:sotn_11_woodcarving_palteeta",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:draculax_09_beginning",
+        "stream": true
+      }
+    ]
+  },
+  "music.biome.ocean": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:draculax_03_divine_bloodlines",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_16_crystal_drops",
+        "stream": true
+      }
+    ]
+  },
+  "music.biome.deepocean": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:draculax_08_ghost_ship_painting",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:draculax_10_the_nest",
+        "stream": true
+      }
+    ]
+  },
+  "music.biome.swamp": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:draculax_06_cemetery",
+        "stream": true
+      }
+    ]
+  },
+  "music.structure.vampires.hunter_church": {
+    "sounds": [      
+      {
+        "name": "castlevania-ost:sotn_05_prayer",
+        "stream": true
+      }
+    ]
+  },
+  "music.structure.vampires.vampire_crypt": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:sotn_06_draculas_castle",
+        "stream": true
+      }
+    ]
+  },
+  "music.structure.mansion": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:sotn_07_golden_dance",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_08_marble_corridor",
+        "stream": true
+      }
+    ]
+  },
+  "music.structure.stronghold": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:sotn_15_requiem_of_the_gods",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:draculax_13_dance_of_illusions",
+        "stream": true
+      }
+    ]
+  },
+  "music.structure.mineshaft": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:sotn_11_woodcarving_palteeta",
+        "stream": true
+      }
+    ]
+  },
+  "music.structure.fortress": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:sotn_11_woodcarving_palteeta",
+        "stream": true
+      }
+    ]
+  },
+  "music.structure.bastion_remnant": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:sotn_32_black_feast",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:draculax_04_vampire_killer",
+        "stream": true
+      }
+    ]
+  },
+  "music.structure.end_city": {
+    "sounds": [
+      {
+        "name": "castlevania-ost:sotn_20_lost_painting",
+        "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_31_the_final_tocatta",
+        "stream": true
+      }
+    ]
+  }
+}

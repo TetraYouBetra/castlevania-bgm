@@ -1,0 +1,14 @@
+{
+    "priority":  0,
+    "layer":  "underscore",
+    "sound_event":  "castlevania-ost:music.dimension.nether",
+    "cooldown_seconds": 120,
+    "occupy_layer_during_cooldown": true,
+    "reset_cooldown_on_reactivation": false,
+    "condition": {
+        "type": "maestro:dimension",
+        "values": [
+            "minecraft:nether"
+        ]
+    }
+}

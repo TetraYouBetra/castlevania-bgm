@@ -1,0 +1,50 @@
+{
+    "priority":  100,
+    "layer":  "encounter",
+    "sound_event":  "castlevania-ost:music.entity.combat",
+    "condition": {
+        "type": "maestro:any_of",
+        "terms": [
+            {
+                "type": "maestro:entity_tag",
+                "required_amount": 2,
+                "search_radius": 20,
+                "values": [
+                    "minecraft:illager",
+                    "minecraft:illager_friends",
+                    "minecraft:raiders",
+                    "minecraft:undead",
+                    "minecraft:arthropod",
+                    "minecraft:axolotl_always_hostiles"
+                ]
+            },
+            {
+                "type": "maestro:entity",
+                "required_amount": 2,
+                "search_radius": 20,
+                "values": [
+                    "minecraft:creeper",
+                    "minecraft:blaze",
+                    "minecraft:breeze",
+                    "minecraft:phantom",
+                    "minecraft:shulker",
+                    "minecraft:ghast",
+                    "minecraft:slime",
+                    "minecraft:enderman",
+                    "minecraft:magma_cube",
+                    "minecells:grenadier",
+                    "minecells:shieldbearer",
+                    "enemyexpansion:goblin",
+                    "mowziesmobs:umvuthana_raptor",
+                    "mowziesmobs:umvuthana_follower_raptor",
+                    "mowziesmobs:naga",
+                    "species:bewereager",
+                    "irons_spellbooks:necromancer",
+                    "irons_spellbooks:cursed_armor_stand",
+                    "irons_spellbooks:citadel_keeper",
+                    "infernalexp:voline"
+                ]
+            }
+        ]
+    }
+}

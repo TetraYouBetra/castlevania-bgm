@@ -1,0 +1,24 @@
+{
+    "priority":  500,
+    "layer":  "underscore",
+    "sound_event":  "castlevania-ost:music.biome.cold",
+    "cooldown_seconds": 120,
+    "occupy_layer_during_cooldown": true,
+    "reset_cooldown_on_reactivation": false,
+    "condition": {
+        "type": "maestro:any_of",
+        "terms": [
+        {
+            "type": "maestro:biome_tag",
+            "values": [ 
+            "minecraft:spawns_cold_variant_farm_animals",
+            "minecraft:spawns_snow_foxes"
+            ]
+        },
+        {
+            "type": "maestro:weather",
+            "is_snowing": true
+        }
+        ]
+  }
+}

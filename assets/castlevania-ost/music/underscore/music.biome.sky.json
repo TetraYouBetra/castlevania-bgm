@@ -1,0 +1,24 @@
+{
+    "priority":  100,
+    "layer":  "underscore",
+    "sound_event":  "castlevania-ost:music.biome.sky",
+    "cooldown_seconds": 120,
+    "occupy_layer_during_cooldown": true,
+    "reset_cooldown_on_reactivation": false,
+    "condition": {
+        "type": "maestro:all_of",
+        "terms": [
+            {
+                "type": "maestro:height",
+                "above": 190,
+                "below": 500
+            },
+            {
+                "type": "maestro:dimension",
+                "values": [
+                    "minecraft:overworld"
+                ]
+            }
+        ]
+    }
+}

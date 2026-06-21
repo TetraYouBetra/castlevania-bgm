@@ -1,0 +1,13 @@
+﻿{
+    "priority":  1000,
+    "layer":  "underscore",
+    "sound_event":  "castlevania-ost:music.screens.title",
+    "cooldown_seconds": 120,
+    "occupy_layer_during_cooldown": true,
+    "reset_cooldown_on_reactivation": false,
+    "condition": {
+        "type": "maestro:screen",
+        "kind": "title",
+        "class_path": "net.minecraft.client.gui.screens.TitleScreen"
+    }
+}

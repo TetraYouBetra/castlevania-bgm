@@ -1,0 +1,12 @@
+﻿{
+    "priority":  1000,
+    "layer":  "encounter",
+    "sound_event":  "castlevania-ost:music.screens.death",
+    "cooldown_seconds": 100000,
+    "occupy_layer_during_cooldown": false,
+    "reset_cooldown_on_reactivation": true,
+    "condition": {
+        "type": "maestro:screen",
+        "class_path": "net.minecraft.client.gui.screens.DeathScreen"
+    }
+}
