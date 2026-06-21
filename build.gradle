@@ -1,0 +1,14 @@
+plugins {
+    id 'base'
+}
+
+tasks.register('buildPack', Zip) {
+    archiveFileName = "releases/Castlevania-BGM.zip"
+    destinationDirectory = projectDir
+
+    from(projectDir) {
+        include 'assets/**'
+        include 'pack.mcmeta'
+        include 'pack.png'
+    }
+}
