@@ -27,19 +27,23 @@
     "sounds": [
       {
         "name": "castlevania-ost:sotn_01_transformation_no._1",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_30_transformation_no._2",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_33_transformation_no._3",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_25_young_nobleman_of_sadness",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }
     ]
   },
@@ -47,15 +51,18 @@
     "sounds": [
       {
         "name": "castlevania-ost:sotn_18_rainbow_cemetery",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_14_resting_place",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_26_through_the_gate_over_the_deep_edge",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }
     ]
   },
@@ -63,19 +70,23 @@
     "sounds": [      
       {
         "name": "castlevania-ost:sotn_27_through_the_gate_into_the_world_of_heaven",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_22_cursed_holy_castle",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_24_awakened_soul",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_19_stillness",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }
     ]
   },
@@ -87,11 +98,13 @@
       },
       {
         "name": "castlevania-ost:sotn_28_the_poetic_melody_of_death",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_32_black_feast",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:draculax_13_dance_of_illusions",
@@ -99,11 +112,13 @@
       },
       {
         "name": "castlevania-ost:sotn_03_illusionary_dance",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_29_strange_bloodline",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }
     ]
   },
@@ -127,15 +142,18 @@
     "sounds": [
       {
         "name": "castlevania-ost:sotn_16_crystal_drops",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_20_lost_painting",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_21_pearl_dance_song",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }
     ]
   },
@@ -143,11 +161,13 @@
     "sounds": [
       {
         "name": "castlevania-ost:sotn_17_path_of_the_departed",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_12_gate_of_spirits",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:draculax_11_cerberus",
@@ -159,11 +179,13 @@
     "sounds": [
       {
         "name": "castlevania-ost:sotn_15_requiem_of_the_gods",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_09_tower_of_evil_fog",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }      
     ]
   },
@@ -175,7 +197,8 @@
       },
       {
         "name": "castlevania-ost:sotn_02_prologue",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }
     ]
   },
@@ -183,7 +206,8 @@
     "sounds": [
       {
         "name": "castlevania-ost:sotn_11_woodcarving_palteeta",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:draculax_09_beginning",
@@ -199,7 +223,8 @@
       },
       {
         "name": "castlevania-ost:sotn_16_crystal_drops",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }
     ]
   },
@@ -227,7 +252,8 @@
     "sounds": [      
       {
         "name": "castlevania-ost:sotn_05_prayer",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }
     ]
   },
@@ -235,7 +261,8 @@
     "sounds": [
       {
         "name": "castlevania-ost:sotn_06_draculas_castle",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }
     ]
   },
@@ -243,11 +270,13 @@
     "sounds": [
       {
         "name": "castlevania-ost:sotn_07_golden_dance",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_08_marble_corridor",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }
     ]
   },
@@ -255,7 +284,8 @@
     "sounds": [
       {
         "name": "castlevania-ost:sotn_15_requiem_of_the_gods",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:draculax_13_dance_of_illusions",
@@ -267,7 +297,8 @@
     "sounds": [
       {
         "name": "castlevania-ost:sotn_11_woodcarving_palteeta",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }
     ]
   },
@@ -275,7 +306,8 @@
     "sounds": [
       {
         "name": "castlevania-ost:sotn_11_woodcarving_palteeta",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }
     ]
   },
@@ -283,7 +315,8 @@
     "sounds": [
       {
         "name": "castlevania-ost:sotn_32_black_feast",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:draculax_04_vampire_killer",
@@ -295,11 +328,13 @@
     "sounds": [
       {
         "name": "castlevania-ost:sotn_20_lost_painting",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       },
       {
         "name": "castlevania-ost:sotn_31_the_final_tocatta",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }
     ]
   }
