@@ -8,7 +8,9 @@
     "condition": {
         "type": "maestro:structure",
         "values": [
-            "minecraft:mansion"
+            "minecraft:mansion",
+            "nova_structures:illager_manor",
+            "nova_structures:witch_villa"
         ]
     }
 }

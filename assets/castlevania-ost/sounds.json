@@ -20,6 +20,11 @@
       {
         "name": "castlevania-ost:draculax_16_game_over",
         "stream": true
+      },
+      {
+        "name": "castlevania-ost:sotn_14_resting_place",
+        "stream": true,
+        "volume": 0.6
       }
     ]
   },
@@ -205,11 +210,6 @@
   "music.biome.forestjungle": {
     "sounds": [
       {
-        "name": "castlevania-ost:sotn_11_woodcarving_palteeta",
-        "stream": true,
-        "volume": 0.6
-      },
-      {
         "name": "castlevania-ost:draculax_09_beginning",
         "stream": true
       }
@@ -275,6 +275,11 @@
       },
       {
         "name": "castlevania-ost:sotn_08_marble_corridor",
+        "stream": true,
+        "volume": 0.6
+      },
+      {
+        "name": "castlevania-ost:sotn_11_woodcarving_palteeta",
         "stream": true,
         "volume": 0.6
       }

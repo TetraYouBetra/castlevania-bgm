@@ -8,7 +8,9 @@
     "condition": {
         "type": "maestro:structure",
         "values": [
-            "minecraft:fortress"
+            "minecraft:fortress",
+            "nova_structures:donjon",
+            "nova_structures:nether_keep"
         ]
     }
 }
