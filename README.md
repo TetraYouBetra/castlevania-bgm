@@ -29,8 +29,12 @@ I also recommend disabling the Minecraft music in the Maestro mod config.
 #### Attribution & Disclaimer
 Castlevania BGM uses music from the **Dracula X and Symphony of the Night Original Soundtracks**. Castlevania and its soundtracks are the intellectual property of **Konami**. This resource pack is an unofficial fan-made project created for entertainment purposes. No ownership of the original music is claimed. All rights to the soundtrack belong to their respective copyright holders.
 
+<br>
 Symphony of the Night tracks were taken from: https://archive.org/details/castlevania-dracula-x-ost
+<br>
 Dracula X tracks were taken from: https://archive.org/details/castlevania-dracula-x-ost
+<br>
 
 README formatting and Gradle script taken from: https://github.com/ObscuriaLithium/maestro-terraria
+<br>
 Minecraft silent tracks and base resource pack template taken from: https://www.curseforge.com/minecraft/texture-packs/template-music-resource-pack-for-easy-modification
