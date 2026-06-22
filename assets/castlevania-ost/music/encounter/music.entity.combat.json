@@ -15,7 +15,8 @@
                     "minecraft:raiders",
                     "minecraft:undead",
                     "minecraft:arthropod",
-                    "minecraft:axolotl_always_hostiles"
+                    "minecraft:axolotl_always_hostiles",
+                    "c:mobs/hostile"
                 ]
             },
             {
@@ -35,14 +36,39 @@
                     "minecells:grenadier",
                     "minecells:shieldbearer",
                     "enemyexpansion:goblin",
+                    "enemyexpansion:starved",
+                    "enemyexpansion:tarantula",
+                    "enemyexpansion:scorpion",
+                    "enemyexpansion:vampbiter",
+                    "enemyexpansion:vampflyer",
+                    "enemyexpansion:vampire",
                     "mowziesmobs:umvuthana_raptor",
                     "mowziesmobs:umvuthana_follower_raptor",
                     "mowziesmobs:naga",
                     "species:bewereager",
+                    "species:cruncher",
+                    "species:spectre",
+                    "upgrade_aquatic:thrasher",
+                    "cataclysm:draugr",
+                    "cataclysm:royal_draugr",
+                    "cataclysm:drowned_host",
+                    "cataclysm:symbiocto",
+                    "cataclysm:ignited_revenant",
+                    "cataclysm:*",
                     "irons_spellbooks:necromancer",
+                    "irons_spellbooks:summoned_zombie",
+                    "irons_spellbooks:archevoker",
+                    "irons_spellbooks:cryomancer",
+                    "irons_spellbooks:ice_spider",
+                    "irons_spellbooks:magehunter_vindicator",
+                    "irons_spellbooks:cultist",
                     "irons_spellbooks:cursed_armor_stand",
                     "irons_spellbooks:citadel_keeper",
-                    "infernalexp:voline"
+                    "infernalexp:voline",
+                    "infernalexp:blindsight",
+                    "infernalexp:glowsilk_moth",
+                    "infernalexp:glowsquito",
+                    "infernalexp:warpbeetle"
                 ]
             }
         ]
